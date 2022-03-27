@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Saksham-Chauhan
-- 👀 I’m interested in Web development.
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking for a React JS developer position.
+- 👋 Hi, I’m @Chakcham-Homie
+- 👀 I’m interested in Ghar Jaana on Weekends.
+- 🌱 I’m currently trying to complete EPON-NFT project
+- 💞️ I’m doing my internship at Koders and now I'm going to become junior developer bitches! 
 - 📫 How to reach me 
-    my email address is sakshamchauhan79@gmail.com
+    my email address is chakcham-the-homie@gmail.com
  
