@@ -1,5 +1,5 @@
 ##  👋 Hi there
-- 👉 I’m @Saksham-Chauhan
+- 👉 I’m Saksham-Chauhan
 - 👀 I’m interested in Web development.
 - 📫 How to reach me 👇
 - 📩 sakshamchauhan79@gmail.com
