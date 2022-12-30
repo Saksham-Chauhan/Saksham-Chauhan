@@ -3,10 +3,10 @@
 
 
 
--    I’m @Saksham-Chauhan
+- 👉 I’m @Saksham-Chauhan
 - 👀 I’m interested in Web development.
-- 📫 How to reach me 
--    my email address is sakshamchauhan79@gmail.com
+- 📫 How to reach me 👇
+- 📩 sakshamchauhan79@gmail.com
    
    
    
