@@ -7,3 +7,13 @@
 - 👀 I’m interested in Web development.
 - 📫 How to reach me 
    - my email address is sakshamchauhan79@gmail.com
+   
+   
+   
+   ## 📈 Github Stats
+
+<p align="center">
+	
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Saksham-Chauhan&show_icons=true&theme=synthwave" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Saksham-Chauhan&theme=synthwave" />
+</p>
