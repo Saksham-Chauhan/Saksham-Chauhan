@@ -1,12 +1,10 @@
 ##  👋 Hi there
-[![@saksham's Holopin board](https://holopin.me/saksham)](https://holopin.io/@saksham)
-
-
-
 - 👉 I’m @Saksham-Chauhan
 - 👀 I’m interested in Web development.
 - 📫 How to reach me 👇
 - 📩 sakshamchauhan79@gmail.com
+
+[![@saksham's Holopin board](https://holopin.me/saksham)](https://holopin.io/@saksham)
    
    
    
